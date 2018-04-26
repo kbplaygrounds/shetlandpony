@@ -1,9 +1,9 @@
 body {
   padding-left: 11em;
   font-family: "Comic Sans MS", cursive, sans-serif;
-  color: purple;
+  color: black;
   background-color: lightblue;
-  background-image: url("pony.jpg");
+  background-image: url("kanye.jpg");
 }
 ul.navbar {
   list-style-type: none;
@@ -31,3 +31,10 @@ address {
   margin-top: 1em;
   padding-top: 1em;
   border-top: thin dotted }
+  p {
+    font-size: 15px;
+    background-color: white;
+    top: 2em;
+    left: 1em;
+    width: 23em
+}
